@@ -54,6 +54,6 @@ bank-website/ <br>
 
 👨‍💻 Author
 
-Your UBAID AHMAD
+UBAID AHMAD
 
 GitHub: ahmadubaid061
