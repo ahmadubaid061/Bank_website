@@ -34,12 +34,12 @@ It demonstrates modern JavaScript concepts and interactive UI features such as m
 
 ## 📂 Project Structure
 
-bank-website/
-│── index.html # Main HTML file
-│── style.css # Styling
-│── script.js # JavaScript functionality
-│── img/ # Images and icons
-│── README.md # Project documentation
+bank-website/ <br>
+│── index.html # Main HTML file<br>
+│── style.css # Styling<br>
+│── script.js # JavaScript functionality<br>
+│── img/ # Images and icons<br>
+│── README.md # Project documentation<br>
 
 ---
 
