@@ -47,7 +47,7 @@ bank-website/ <br>
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/bank-website.git
+   git clone https://github.com/ahmadubaid061/Bank_website.git
 2. Open index.html in your browser.
 
 3. Explore the features (modal, smooth scroll, slider, etc.)
