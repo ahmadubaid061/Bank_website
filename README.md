@@ -7,7 +7,7 @@ It demonstrates modern JavaScript concepts and interactive UI features such as m
 
 ## 🚀 Live Demo
 
-👉 [View the project on GitHub Pages](https://your-username.github.io/bank-website/)
+👉 [View the project on GitHub Pages](https://ahmadubaid061.github.io/Bank_website/)
 
 ---
 
@@ -34,3 +34,26 @@ It demonstrates modern JavaScript concepts and interactive UI features such as m
 
 ## 📂 Project Structure
 
+bank-website/
+│── index.html # Main HTML file
+│── style.css # Styling
+│── script.js # JavaScript functionality
+│── img/ # Images and icons
+│── README.md # Project documentation
+
+---
+
+## 💡 How to Use
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/bank-website.git
+2. Open index.html in your browser.
+
+3. Explore the features (modal, smooth scroll, slider, etc.)
+
+👨‍💻 Author
+
+Your UBAID AHMAD
+
+GitHub: ahmadubaid061
